@@ -1,4 +1,3 @@
-TapForTapSDK
-============
+# TapForTap iOS SDK
 
-Tap for Tap SDK
+See http://tapfortap.com/developer#documentation
